@@ -1,0 +1,147 @@
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\bin\Debug\BET.exe.config
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\bin\Debug\BET.exe
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\bin\Debug\BET.pdb
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\bin\Debug\BET.xml
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.vbprojAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.Resources.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.SizingView.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.StartView.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.vbproj.GenerateResource.cache
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.vbproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.exe
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.xml
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\BET\BET\obj\Debug\BET.pdb
+C:\Fabrica\BET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Fabrica\BET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Fabrica\BET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Fabrica\BET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Fabrica\BET\bin\Debug\BET.exe.config
+C:\Fabrica\BET\bin\Debug\BET.exe
+C:\Fabrica\BET\bin\Debug\BET.pdb
+C:\Fabrica\BET\bin\Debug\BET.xml
+C:\Fabrica\BET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Fabrica\BET\bin\Debug\EnvDTE.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Fabrica\BET\bin\Debug\stdole.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Fabrica\BET\bin\Debug\Microsoft.MSXML.dll
+C:\Fabrica\BET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Fabrica\BET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Fabrica\BET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Fabrica\BET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fabrica\BET\obj\Debug\BET.vbprojAssemblyReference.cache
+C:\Fabrica\BET\obj\Debug\BET.Resources.resources
+C:\Fabrica\BET\obj\Debug\BET.SizingView.resources
+C:\Fabrica\BET\obj\Debug\BET.StartView.resources
+C:\Fabrica\BET\obj\Debug\BET.vbproj.GenerateResource.cache
+C:\Fabrica\BET\obj\Debug\BET.vbproj.CoreCompileInputs.cache
+C:\Fabrica\BET\obj\Debug\BET.vbproj.CopyComplete
+C:\Fabrica\BET\obj\Debug\BET.exe
+C:\Fabrica\BET\obj\Debug\BET.xml
+C:\Fabrica\BET\obj\Debug\BET.pdb
+C:\Fabrica\BET\obj\Debug\BET.vbproj.ResolveComReference.cache
+C:\Fabrica\BET\obj\Debug\BET.Dev.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\BET.exe.config
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\BET.exe
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\BET.pdb
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\BET.xml
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\EnvDTE.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\stdole.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.vbprojAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.vbproj.ResolveComReference.cache
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.Dev.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.Resources.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.SizingView.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.StartView.resources
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.vbproj.GenerateResource.cache
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.vbproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.vbproj.CopyComplete
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.exe
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.xml
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.pdb
