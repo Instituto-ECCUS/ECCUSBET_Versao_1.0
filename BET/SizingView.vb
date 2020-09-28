@@ -155,6 +155,10 @@ Public Class SizingView
         Dev.Show()
     End Sub
 
+    Private Sub ManualToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ManualToolStripMenuItem.Click
+        Manual.Show()
+    End Sub
+
     Private Function ProfundidadeUtil()
         Dim PMIni, PMax, PMedio As Double
         If TxtVolUtio.Text = 0 Then

@@ -145,3 +145,4 @@ C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftwar
 C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.exe
 C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.xml
 C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.pdb
+C:\Users\Windows 10\OneDrive\Documentos\Trabalhos\Voluntariado\ECCUS\ECCUSoftware\Dimensionamento de BET\Software\BET\obj\Debug\BET.Manual.resources
