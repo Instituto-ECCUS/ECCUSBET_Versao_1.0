@@ -118,10 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Label1.Text" xml:space="preserve">
-    <value>Este produto foi desenvolvido iniciaumente pelo projeto ECCUSoftware, projeto vinculado a ONG Instituto ECCUS, cituado em João Pessoa - PB. O projeto tem como objetivo desenvolver soluções para os profissionais da ONG e aplicações sob demanda. 
+    <value>Este produto foi desenvolvido inicialmente pelo projeto ECCUSoftware, projeto vinculado a ONG Instituto ECCUS (                                                                       ), situado em João Pessoa - PB. O projeto tem como objetivo desenvolver soluções para os profissionais da ONG e aplicações sob demanda. 
 
-Desenvolvedor: Austregíselo Junior
-Colaboradores: </value>
+</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="PictureBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -974,6 +973,20 @@ Colaboradores: </value>
         +hmsiN6SoqOjC4eOjo6Ojga6cOjo6OjouA5dOHR0dHR0XIcuHDo6Ojo6rkMXDh0dHR0d16ELh46Ojo6O
         69CFQ0dHR0fHdejCoaOjo6PjOnTh0NHR0dFxHbpw6Ojo6Oi4Dl04dHR0dHQUnJ39/94KfYz4v2iSAAAA
         AElFTkSuQmCC
+</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>Desenvolvedor:
+Austregíselo Soare de Vasconcelos Junior 
+(                                                                       ) 
+
+Colaboradores:
+Vanine Elane Menezes de Farias 
+(                                                                                          )
+Sayonara Andrade Eliziario
+ (                                                                                                            ) 
+Rafael Sanchez Souza
+(                                                          )
 </value>
   </data>
 </root>

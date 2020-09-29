@@ -118,14 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Label1.Text" xml:space="preserve">
-    <value>Inicialmente é necessário adicionar ao software os dados de entrada, selecionando o padrão de resiência, colocando a temperatura do ambiente, tempo entre lipeza da bacia e a quantidade de pessoas atendida. Dessa forma ai clicar no botão "Dimensionar" os resultados serão exibidos, volume útil, produndidade, área e volume total.
+    <value>Inicialmente é necessário adicionar ao software os dados de entrada, selecionando o padrão de residência, colocando a temperatura do ambiente, tempo entre lipeza da bacia e a quantidade de pessoas atendidas. Dessa forma ai clicar no botão "Dimensionar" os resultados serão exibidos, volume útil, produndidade, área e volume total.
 Observação: A norma tecnica tomada como base para essa aplicação, NBR 7229/93, afirma que para tanque retangular a relação entre comprimento/largura deve ser entre 2:1 e 4:1, assim o software não delimita tais dimensões porque entende que elas podem variar segundo a necessidade do local, mas é importante acegurar o volume total fornecido pelo mesmo.
 </value>
   </data>
   <data name="Label4.Text" xml:space="preserve">
-    <value>Nessa parte será feita a análise dos possíveis dimensionamentos, os dados que estarão disponível na tebela são os memos dos dados de saída da aba dimensionamento. Após a obtenção do histórico de dimensionamento é possível gerarr um gráfico (Volume útil X Profundidade) ao apertar o botão análise. Também é possível exportar os dados contidos na tabela para a aplicação Excel da Microsoft, clicando no botão exportar. Assim o usuária terá toda a tabela do ECCUSBET no Excel app.</value>
+    <value>Nessa parte será feita a análise dos possíveis dimensionamentos, os dados que estarão disponível na tebela são os memos dos dados de saída da aba dimensionamento. Após a obtenção do histórico de dimensionamento é possível gerar um gráfico (Volume útil X Profundidade) ao apertar o botão análise. Também é possível exportar os dados contidos na tabela para a aplicação Excel da Microsoft, clicando no botão exportar. Assim o usuária terá toda a tabela do ECCUSBET no Excel app.</value>
   </data>
   <data name="Label6.Text" xml:space="preserve">
-    <value>Na barra de menu, no topo da aplicação se encontram as abras de Arquivo, Manual e Desenvolvimento. Ao clicar em Arquivo aparecem os botôes Limpar, Carregar, Excluir e Sair, onde respectivamente temos as ações de limpeza dos dados, carregamento de dados salvos, exclusão de dados e sair a aplicação. Na aba Manual contem o manual do usuário e na aba Desdenvolvimento contem informações e contato da ONG Instituto ECCUS, projeto ECCUSoftware e equepe.</value>
+    <value>Na barra de menu, no topo da aplicação se encontram as abras de Arquivo, Manual e Desenvolvimento. Ao clicar em Arquivo aparecem os botôes Limpar, Carregar, Excluir e Sair, onde respectivamente temos as ações de limpeza dos dados, carregamento de dados salvos, exclusão de dados e sair a aplicação. Na aba Manual contem o manual do usuário e na aba Desdenvolvimento contem informações e contatos da equipe desenvolvedora e da ONG Instituto ECCUS.</value>
   </data>
 </root>

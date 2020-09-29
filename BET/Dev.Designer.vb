@@ -27,30 +27,31 @@ Partial Class Dev
         Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.LinkLabel2 = New System.Windows.Forms.LinkLabel()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.LinkLabel3 = New System.Windows.Forms.LinkLabel()
+        Me.LinkLabel4 = New System.Windows.Forms.LinkLabel()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.LinkLabel5 = New System.Windows.Forms.LinkLabel()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label1
         '
-        Me.Label1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.Label1.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.Label1.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.Label1.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(3, 189)
+        Me.Label1.Location = New System.Drawing.Point(43, 217)
         Me.Label1.MaximumSize = New System.Drawing.Size(500, 500)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(294, 207)
+        Me.Label1.Size = New System.Drawing.Size(500, 250)
         Me.Label1.TabIndex = 2
         Me.Label1.Text = resources.GetString("Label1.Text")
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'LinkLabel1
         '
+        Me.LinkLabel1.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.LinkLabel1.AutoSize = True
-        Me.LinkLabel1.Location = New System.Drawing.Point(7, 51)
+        Me.LinkLabel1.Location = New System.Drawing.Point(185, 315)
         Me.LinkLabel1.Name = "LinkLabel1"
         Me.LinkLabel1.Size = New System.Drawing.Size(213, 13)
         Me.LinkLabel1.TabIndex = 4
@@ -59,11 +60,12 @@ Partial Class Dev
         '
         'PictureBox1
         '
+        Me.PictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.PictureBox1.BackgroundImage = CType(resources.GetObject("PictureBox1.BackgroundImage"), System.Drawing.Image)
         Me.PictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
         Me.PictureBox1.ErrorImage = Nothing
         Me.PictureBox1.InitialImage = Nothing
-        Me.PictureBox1.Location = New System.Drawing.Point(6, 3)
+        Me.PictureBox1.Location = New System.Drawing.Point(147, 14)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(291, 183)
         Me.PictureBox1.TabIndex = 6
@@ -71,33 +73,60 @@ Partial Class Dev
         '
         'LinkLabel2
         '
+        Me.LinkLabel2.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.LinkLabel2.AutoSize = True
-        Me.LinkLabel2.Location = New System.Drawing.Point(8, 28)
+        Me.LinkLabel2.Location = New System.Drawing.Point(177, 232)
         Me.LinkLabel2.Name = "LinkLabel2"
         Me.LinkLabel2.Size = New System.Drawing.Size(213, 13)
         Me.LinkLabel2.TabIndex = 7
         Me.LinkLabel2.TabStop = True
         Me.LinkLabel2.Text = "https://www.instagram.com/institutoeccus/"
         '
-        'Label2
+        'LinkLabel3
         '
-        Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(8, 6)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(52, 13)
-        Me.Label2.TabIndex = 8
-        Me.Label2.Text = "Contatos:"
+        Me.LinkLabel3.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.LinkLabel3.AutoSize = True
+        Me.LinkLabel3.Location = New System.Drawing.Point(159, 376)
+        Me.LinkLabel3.Name = "LinkLabel3"
+        Me.LinkLabel3.Size = New System.Drawing.Size(269, 13)
+        Me.LinkLabel3.TabIndex = 10
+        Me.LinkLabel3.TabStop = True
+        Me.LinkLabel3.Text = "https://www.linkedin.com/in/vanine-farias-501a7b104/"
         '
-        'Panel1
+        'LinkLabel4
         '
-        Me.Panel1.BackColor = System.Drawing.SystemColors.ScrollBar
-        Me.Panel1.Controls.Add(Me.LinkLabel2)
-        Me.Panel1.Controls.Add(Me.Label2)
-        Me.Panel1.Controls.Add(Me.LinkLabel1)
-        Me.Panel1.Location = New System.Drawing.Point(303, 0)
-        Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(224, 419)
-        Me.Panel1.TabIndex = 9
+        Me.LinkLabel4.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.LinkLabel4.AutoSize = True
+        Me.LinkLabel4.Location = New System.Drawing.Point(130, 405)
+        Me.LinkLabel4.Name = "LinkLabel4"
+        Me.LinkLabel4.Size = New System.Drawing.Size(325, 13)
+        Me.LinkLabel4.TabIndex = 9
+        Me.LinkLabel4.TabStop = True
+        Me.LinkLabel4.Text = "https://www.linkedin.com/in/sayonara-elizi%C3%A1rio-2bb25a116/"
+        '
+        'Label3
+        '
+        Me.Label3.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.Label3.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.Label3.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(43, 284)
+        Me.Label3.MaximumSize = New System.Drawing.Size(500, 500)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(500, 182)
+        Me.Label3.TabIndex = 11
+        Me.Label3.Text = resources.GetString("Label3.Text")
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'LinkLabel5
+        '
+        Me.LinkLabel5.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.LinkLabel5.AutoSize = True
+        Me.LinkLabel5.Location = New System.Drawing.Point(206, 435)
+        Me.LinkLabel5.Name = "LinkLabel5"
+        Me.LinkLabel5.Size = New System.Drawing.Size(174, 13)
+        Me.LinkLabel5.TabIndex = 12
+        Me.LinkLabel5.TabStop = True
+        Me.LinkLabel5.Text = "https://www.linkedin.com/in/ssraf/"
         '
         'Dev
         '
@@ -105,18 +134,22 @@ Partial Class Dev
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.BackColor = System.Drawing.SystemColors.ButtonHighlight
-        Me.ClientSize = New System.Drawing.Size(527, 419)
-        Me.Controls.Add(Me.Panel1)
+        Me.ClientSize = New System.Drawing.Size(587, 483)
+        Me.Controls.Add(Me.LinkLabel5)
+        Me.Controls.Add(Me.LinkLabel4)
+        Me.Controls.Add(Me.LinkLabel3)
+        Me.Controls.Add(Me.LinkLabel1)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.LinkLabel2)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Label1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Name = "Dev"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Desenvolvedor"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.Panel1.ResumeLayout(False)
-        Me.Panel1.PerformLayout()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
@@ -124,6 +157,8 @@ Partial Class Dev
     Friend WithEvents LinkLabel1 As LinkLabel
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents LinkLabel2 As LinkLabel
-    Friend WithEvents Label2 As Label
-    Friend WithEvents Panel1 As Panel
+    Friend WithEvents LinkLabel3 As LinkLabel
+    Friend WithEvents LinkLabel4 As LinkLabel
+    Friend WithEvents Label3 As Label
+    Friend WithEvents LinkLabel5 As LinkLabel
 End Class

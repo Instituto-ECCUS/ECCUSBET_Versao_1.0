@@ -114,6 +114,7 @@ Partial Class Manual
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Name = "Manual"
         Me.Text = "Manual"
         Me.ResumeLayout(False)

@@ -26,6 +26,7 @@ Partial Class StartView
         Me.BtnMinimized = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.BtnStatr = New System.Windows.Forms.Button()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'BtnClosed
@@ -86,6 +87,16 @@ Partial Class StartView
         Me.BtnStatr.Text = "Iniciar"
         Me.BtnStatr.UseVisualStyleBackColor = False
         '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(445, 236)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(110, 24)
+        Me.Label3.TabIndex = 64
+        Me.Label3.Text = "Versão 1.0"
+        '
         'StartView
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -93,6 +104,7 @@ Partial Class StartView
         Me.BackColor = System.Drawing.Color.Teal
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(567, 270)
+        Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.BtnClosed)
         Me.Controls.Add(Me.BtnMinimized)
         Me.Controls.Add(Me.Label1)
@@ -111,4 +123,5 @@ Partial Class StartView
     Friend WithEvents BtnMinimized As Button
     Friend WithEvents Label1 As Label
     Friend WithEvents BtnStatr As Button
+    Friend WithEvents Label3 As Label
 End Class

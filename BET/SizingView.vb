@@ -1,6 +1,6 @@
 ﻿'------------------------------------------------- CABEÇALHO -------------------------------------------------------------        
 'Nome do programa		    : ECCUSBet;
-'Versão                     : Basica;
+'Versão                     : 1.0;
 'Objetivo                   : Software para dimensionar bacia de evapotranspiração;
 'Empresa Responsável		: ONG Instituto ECCUS;
 'Criado em                  : 11/09/2020.
@@ -53,7 +53,7 @@ Public Class SizingView
 
         If TxtNPessoas.Text = "" Then
             Rp = 0
-            MsgBox("Erro, adicione o úmero de pessoas!")
+            MsgBox("Erro, adicione o número de pessoas!")
         End If
 
         If CDiarioTotal <= 1500 Then
@@ -137,6 +137,8 @@ Public Class SizingView
     End Function
 
     Private Sub SairToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles SairToolStripMenuItem1.Click
+        Manual.Close()
+        Dev.Close()
         Me.Close()
     End Sub
 
@@ -148,7 +150,7 @@ Public Class SizingView
         TxtProfundidadeMedia.Clear()
         TxtAreadaBet.Clear()
         TxtVoldaBet.Clear()
-        SelecaoPadrao.Items.Clear()
+        SelecaoPadrao.Text = ""
     End Sub
 
     Private Sub DesenvolvedorToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DesenvolvedorToolStripMenuItem.Click
@@ -159,6 +161,10 @@ Public Class SizingView
         Manual.Show()
     End Sub
 
+    Private Sub SizingView_Close(sender As Object, e As EventArgs) Handles MyBase.Closed
+        Manual.Close()
+        Dev.Close()
+    End Sub
     Private Function ProfundidadeUtil()
         Dim PMIni, PMax, PMedio As Double
         If TxtVolUtio.Text = 0 Then
@@ -253,4 +259,6 @@ Public Class SizingView
         obj = Nothing
         GC.Collect()
     End Sub
+
+
 End Class
