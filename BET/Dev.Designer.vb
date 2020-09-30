@@ -31,6 +31,8 @@ Partial Class Dev
         Me.LinkLabel4 = New System.Windows.Forms.LinkLabel()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.LinkLabel5 = New System.Windows.Forms.LinkLabel()
+        Me.LinkLabel6 = New System.Windows.Forms.LinkLabel()
+        Me.Label2 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -128,6 +130,27 @@ Partial Class Dev
         Me.LinkLabel5.TabStop = True
         Me.LinkLabel5.Text = "https://www.linkedin.com/in/ssraf/"
         '
+        'LinkLabel6
+        '
+        Me.LinkLabel6.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.LinkLabel6.AutoSize = True
+        Me.LinkLabel6.Location = New System.Drawing.Point(189, 460)
+        Me.LinkLabel6.Name = "LinkLabel6"
+        Me.LinkLabel6.Size = New System.Drawing.Size(238, 13)
+        Me.LinkLabel6.TabIndex = 13
+        Me.LinkLabel6.TabStop = True
+        Me.LinkLabel6.Text = "https://github.com/Instituto-ECCUS/ECCUSBET"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(145, 460)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(289, 13)
+        Me.Label2.TabIndex = 14
+        Me.Label2.Text = "GitHub (                                                                         " &
+    "       )"
+        '
         'Dev
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -135,6 +158,8 @@ Partial Class Dev
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.ClientSize = New System.Drawing.Size(587, 483)
+        Me.Controls.Add(Me.LinkLabel6)
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.LinkLabel5)
         Me.Controls.Add(Me.LinkLabel4)
         Me.Controls.Add(Me.LinkLabel3)
@@ -146,7 +171,7 @@ Partial Class Dev
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Name = "Dev"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Desenvolvedor"
+        Me.Text = "Desenvolvimento"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
@@ -161,4 +186,6 @@ Partial Class Dev
     Friend WithEvents LinkLabel4 As LinkLabel
     Friend WithEvents Label3 As Label
     Friend WithEvents LinkLabel5 As LinkLabel
+    Friend WithEvents LinkLabel6 As LinkLabel
+    Friend WithEvents Label2 As Label
 End Class

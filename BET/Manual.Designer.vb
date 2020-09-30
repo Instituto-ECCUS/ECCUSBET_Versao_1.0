@@ -59,7 +59,7 @@ Partial Class Manual
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(0, 185)
+        Me.Label3.Location = New System.Drawing.Point(0, 173)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(53, 16)
         Me.Label3.TabIndex = 6
@@ -71,7 +71,7 @@ Partial Class Manual
             Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.Label4.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.Label4.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(-3, 202)
+        Me.Label4.Location = New System.Drawing.Point(-3, 190)
         Me.Label4.MaximumSize = New System.Drawing.Size(500, 500)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(500, 96)
@@ -83,7 +83,7 @@ Partial Class Manual
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(0, 318)
+        Me.Label5.Location = New System.Drawing.Point(0, 306)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(96, 16)
         Me.Label5.TabIndex = 8
@@ -95,10 +95,10 @@ Partial Class Manual
             Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.Label6.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.Label6.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(-3, 335)
+        Me.Label6.Location = New System.Drawing.Point(-3, 323)
         Me.Label6.MaximumSize = New System.Drawing.Size(500, 500)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(500, 94)
+        Me.Label6.Size = New System.Drawing.Size(500, 112)
         Me.Label6.TabIndex = 7
         Me.Label6.Text = resources.GetString("Label6.Text")
         Me.Label6.TextAlign = System.Drawing.ContentAlignment.TopCenter

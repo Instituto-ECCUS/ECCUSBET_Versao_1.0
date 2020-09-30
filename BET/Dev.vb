@@ -18,4 +18,8 @@
     Private Sub LinkLabel5_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel5.LinkClicked
         Process.Start("https://www.linkedin.com/in/ssraf/")
     End Sub
+
+    Private Sub LinkLabel6_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel6.LinkClicked
+        Process.Start("https://github.com/Instituto-ECCUS/ECCUSBET")
+    End Sub
 End Class
